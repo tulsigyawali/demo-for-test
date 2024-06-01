@@ -1,4 +1,4 @@
 # demo-for-test
 <br>
 This is demo repository for test case
-Authur: Arthur Gunn
+Authur: Arthur Gunn (Americon Idol)
